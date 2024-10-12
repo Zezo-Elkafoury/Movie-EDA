@@ -4,16 +4,6 @@
 
 This project involves analyzing a movie dataset to uncover insights about movie ratings, genres, and financial performance. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful conclusions about trends in the movie industry.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Visualizations](#visualizations)
-- [Future Work](#future-work)
-- [License](#license)
-
 ## Technologies Used
 
 - **Python**: Programming language for data manipulation and analysis.
