@@ -67,30 +67,9 @@ The EDA process includes:
 
 ### Average Ratings Over Years
 
-![Average Ratings Over Years](path/to/your/average_ratings_over_years.png)
-
 ### Average Rating by Genre
-
-![Average Rating by Genre](path/to/your/average_rating_by_genre.png)
 
 ### Revenue by Director
 
-![Revenue by Director](path/to/your/revenue_by_director.png)
-
 ### Top 10 Countries by Movie Production
 
-![Top 10 Countries by Movie Production](path/to/your/top_countries_by_production.png)
-
-## Future Work
-
-- Explore additional features such as the number of genres per movie and its effect on ratings.
-- Conduct sentiment analysis on reviews to correlate sentiments with movie ratings.
-- Build predictive models to estimate ratings based on features like budget and genre.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Thank you for your interest in the Movie Analysis Project! If you have any questions or suggestions, feel free to reach out.
